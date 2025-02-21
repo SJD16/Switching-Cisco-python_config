@@ -83,7 +83,7 @@ ip dhcp pool <pool_name>
 
 ## 6. Python Script for Automation
 Below is an example Python script using the telnetlib library to automate the configuration of a Cisco switch.
-Advanced version in the file 
+Advanced version in the file named **"Automatization.py"**
 ```bash
 import telnetlib
 
