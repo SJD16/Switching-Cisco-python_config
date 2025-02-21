@@ -1,5 +1,10 @@
 # Configuration Guide for Cisco Devices Using Python
-In this practice, we will demonstrate how to configure Cisco devices (switches and routers) using Python. We will use the telnetlib library (available here: https://docs.python.org/es/3.8/library/telnetlib.html) to automate the configuration of 4 Cisco switches (3 Layer 2 switches and 1 Layer 3 switch). The goal is to make the network scalable by configuring the following protocols:
+In this practice, we will demonstrate how to configure Cisco devices (switches and routers) using Python. We will use the telnetlib library (available here: https://docs.python.org/es/3.8/library/telnetlib.html) to automate the configuration of 4 Cisco switches (3 Layer 2 switches and 1 Layer 3 switch).
+
+![imagen](https://github.com/user-attachments/assets/b0e4ff1d-a1e9-4164-aea9-401f96fba9c6)
+
+
+The goal is to make the network scalable by configuring the following protocols:
 
     DTP (Dynamic Trunking Protocol)
 
